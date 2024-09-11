@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "swiper": "^11.1.12"
+  },
+  "devDependencies": {
+    "eslint": "^9.9.1"
+  },
+  "type": "module"
+}
